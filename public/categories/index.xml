@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on The Chief Data Scientist Blog</title>
-    <link>/categories/</link>
+    <link>/http://blog.thechiefdatascientist.com/categories/</link>
     <description>Recent content in Categories on The Chief Data Scientist Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>kesna@thechiefdatascientist.com (Kesna Lawrence)</managingEditor>
     <webMaster>kesna@thechiefdatascientist.com (Kesna Lawrence)</webMaster>
     <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/http://blog.thechiefdatascientist.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>R</title>
-      <link>/categories/r/</link>
+      <link>/http://blog.thechiefdatascientist.com/categories/r/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       <author>kesna@thechiefdatascientist.com (Kesna Lawrence)</author>
-      <guid>/categories/r/</guid>
+      <guid>/http://blog.thechiefdatascientist.com/categories/r/</guid>
       <description></description>
     </item>
     
