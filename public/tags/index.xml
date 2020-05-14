@@ -2,94 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on The Chief Data Scientist Blog</title>
-    <link>./tags/</link>
+    <link>http://blog.thechiefdatascientist.com/tags/</link>
     <description>Recent content in Tags on The Chief Data Scientist Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>kesna@thechiefdatascientist.com (Kesna Lawrence)</managingEditor>
     <webMaster>kesna@thechiefdatascientist.com (Kesna Lawrence)</webMaster>
     <lastBuildDate>Mon, 20 Mar 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="./tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.thechiefdatascientist.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>example</title>
-      <link>./tags/example/</link>
+      <link>http://blog.thechiefdatascientist.com/tags/example/</link>
       <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
       <author>kesna@thechiefdatascientist.com (Kesna Lawrence)</author>
-      <guid>./tags/example/</guid>
+      <guid>http://blog.thechiefdatascientist.com/tags/example/</guid>
       <description></description>
     </item>
     
     <item>
       <title>photoswipe</title>
-      <link>./tags/photoswipe/</link>
+      <link>http://blog.thechiefdatascientist.com/tags/photoswipe/</link>
       <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
       <author>kesna@thechiefdatascientist.com (Kesna Lawrence)</author>
-      <guid>./tags/photoswipe/</guid>
+      <guid>http://blog.thechiefdatascientist.com/tags/photoswipe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bigimg</title>
-      <link>./tags/bigimg/</link>
+      <link>http://blog.thechiefdatascientist.com/tags/bigimg/</link>
       <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate>
       <author>kesna@thechiefdatascientist.com (Kesna Lawrence)</author>
-      <guid>./tags/bigimg/</guid>
+      <guid>http://blog.thechiefdatascientist.com/tags/bigimg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>math</title>
-      <link>./tags/math/</link>
+      <link>http://blog.thechiefdatascientist.com/tags/math/</link>
       <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
       <author>kesna@thechiefdatascientist.com (Kesna Lawrence)</author>
-      <guid>./tags/math/</guid>
+      <guid>http://blog.thechiefdatascientist.com/tags/math/</guid>
       <description></description>
     </item>
     
     <item>
       <title>code</title>
-      <link>./tags/code/</link>
+      <link>http://blog.thechiefdatascientist.com/tags/code/</link>
       <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate>
       <author>kesna@thechiefdatascientist.com (Kesna Lawrence)</author>
-      <guid>./tags/code/</guid>
+      <guid>http://blog.thechiefdatascientist.com/tags/code/</guid>
       <description></description>
     </item>
     
     <item>
       <title>plot</title>
-      <link>./tags/plot/</link>
+      <link>http://blog.thechiefdatascientist.com/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       <author>kesna@thechiefdatascientist.com (Kesna Lawrence)</author>
-      <guid>./tags/plot/</guid>
+      <guid>http://blog.thechiefdatascientist.com/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>./tags/r-markdown/</link>
+      <link>http://blog.thechiefdatascientist.com/tags/r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       <author>kesna@thechiefdatascientist.com (Kesna Lawrence)</author>
-      <guid>./tags/r-markdown/</guid>
+      <guid>http://blog.thechiefdatascientist.com/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>regression</title>
-      <link>./tags/regression/</link>
+      <link>http://blog.thechiefdatascientist.com/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       <author>kesna@thechiefdatascientist.com (Kesna Lawrence)</author>
-      <guid>./tags/regression/</guid>
+      <guid>http://blog.thechiefdatascientist.com/tags/regression/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>./tags/markdown/</link>
+      <link>http://blog.thechiefdatascientist.com/tags/markdown/</link>
       <pubDate>Fri, 20 Feb 2015 00:00:00 +0000</pubDate>
       <author>kesna@thechiefdatascientist.com (Kesna Lawrence)</author>
-      <guid>./tags/markdown/</guid>
+      <guid>http://blog.thechiefdatascientist.com/tags/markdown/</guid>
       <description></description>
     </item>
     
