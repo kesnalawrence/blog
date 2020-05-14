@@ -16,7 +16,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [Params]
   homeTitle = "The Cheif Data Scientist Blog" # Set a different text for the header on the home page
-  subtitle = "A conversation about data, technology, and Entrepreneurship"
+  subtitle = "A conversation about data, technology, and entrepreneurship"
   mainSections = ["post","posts"]
   logo = "img/avatar-icon.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
