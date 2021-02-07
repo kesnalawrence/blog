@@ -1,16 +1,10 @@
 ---
 comments: false
-subtitle: Why you'd want to go on a date with me
+subtitle: In God We Trust, All Others Must Bring Data
 title: About me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Kesna Lawrence a/k/a **The Chief Data Scientist**. I love data, technology, business, food, and tropical fish. I am an entrepruner and marketing expert who has a track record of helping investors create enterprise value at the intersection of data, technology, and marketing. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My Data Science philosophy is based on practicality. There are several resources where people discuss the theory and technicals about the application of data science. I like the focus on the practical aspect of data science.
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
