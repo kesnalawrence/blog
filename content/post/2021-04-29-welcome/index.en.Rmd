@@ -1,0 +1,14 @@
+---
+title: Welcome
+author: Kesna Lawrence
+date: '2021-04-29'
+slug: []
+categories:
+  - announcement
+tags: []
+type: ''
+subtitle: ''
+image: ''
+---
+
+It has been a long time coming! I'm excited to announce my new blog. Here we will discuss the intersection of data and everything. Be on the look out for insights and practical technology information!
